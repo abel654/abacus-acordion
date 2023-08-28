@@ -97,7 +97,6 @@ input[type=radio]:checked + .item .content {
   padding: 0 0.3rem;
   line-height: 1.6;
   color: black;
-  border: 1px solid;
   border-width: 0 1px;
   height: 0;
   opacity: 0;
